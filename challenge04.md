@@ -1,8 +1,11 @@
-# Challenge 4: FizzBuzz
+# &#x202b; אתגר רביעי: FizzBuzz
 
-Write a for loop that prints the numbers from 1 to 100. But for multiples of 3 print “Fizz” instead of the number and for the multiples of 5 print “Buzz”. For numbers which are multiples of both 3 and 5 print “FizzBuzz”.
+&#x202b;
+כתבי לולאת for המדפיסה מספרים מ-1 עד 100, אבל במקום מספרים שהם כפולות של 3 הדפיסי את המילה: Fizz ובמקום מספרים שהם כפולות של 5, הדפיסי את המילה: Buzz.
+עבור מספרים שהם כפולות גם של 3 וגם של 5 הדפיסי את המילה: FizzBuzz.
 
-Counting to 15 should look like this:
+&#x202b;
+ככה זה נראה:
 
 ```js
 1
@@ -22,4 +25,4 @@ Counting to 15 should look like this:
 'FizzBuzz'
 ```
 
-### [Go to Challenge 5 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge05.md)
+### &#x202b; [לאתגר 5 >>>>](https://github.com/node-girls/beginners-javascript-hebrew/blob/master/challenge05.md)

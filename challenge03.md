@@ -1,8 +1,10 @@
-# Challenge 3: Fix the Code
+# &#x202b; אתגר שלישי: תקני את הקוד
 
-The following code invokes a function called 'add' that adds two numbers together. When you run this code, it should add 13 to 27, and output '40' to the console.
+&#x202b;
+הקוד הבא מכיל את הפונקציה `add`, אשר מחברת שני מספרים יחד. כאשר תריצי את הקוד, הוא אמור לחבר בין 13 לבין 27 ולהדפיס את המספר 40 לקונסול.
 
-But this code is broken! Using your newfound JavaScript knowledge, find the bugs and fix it.
+&#x202b;
+אבל הקוד הזה לא עובד! השתמשי בידע החדש שלך ב-JavaScript, מצאי את הבעיות ותקני אותו:
 
 ```js
 var first number = 13;
@@ -15,4 +17,4 @@ function 'add' () {
 add(first number, second number);
 ```
 
-### [Go to Challenge 4 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge04.md)
+### &#x202b; [לאתגר 4 >>>>](https://github.com/node-girls/beginners-javascript-hebrew/blob/master/challenge04.md)

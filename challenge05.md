@@ -1,12 +1,16 @@
-# Challenge 5: Needle in a Haystack
+# &#x202b; אתגר חמישי: מחט בערימת שחת
 
-Can you find the needle in the haystack?
+&#x202b;
+האם תוכלי למצוא את המחט בערימת השחת?
 
-Write a function `findNeedle()` that takes an array full of junk, but containing one "needle", which you need to find with a for loop.
+&#x202b;
+כתבי פונקציה `()findNeedle` המקבלת מערך המלא במילים, אבל מכיל מחט אחת, אשר עליך למצוא.
 
-After your function finds the needle it should return a message (as a string) that says: `"Found the needle at position x"`, with `x` being the index number at which you find the needle.
+&#x202b;
+לאחר שהפונקציה שלך מוצאת את המחט, היא צריכה להחזיר מחרוזת אשר אומרת `Found the needle at positions x`, כאשר x הוא האינדקס של המחט במערך.
 
-So:
+&#x202b;
+כך שהקוד הבא:
 
 ```js
 var haystack = ['hay', 'rabbit', 'needle', 'hat'];
@@ -14,7 +18,8 @@ var haystack = ['hay', 'rabbit', 'needle', 'hat'];
 findNeedle(haystack);
 ```
 
-Should return:
+&#x202b;
+צריך להחזיר:
 
 ```js
 'Found the needle at position 2'

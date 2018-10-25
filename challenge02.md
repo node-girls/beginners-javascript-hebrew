@@ -1,18 +1,21 @@
-# Challenge 2: Famous Writers
+# &#x202b; אתגר שני: כותבים מפורסמים
 
-Did you know you can also have an array of objects? We've created one for you here. Loop through the array, and for each object, `console.log()` the following sentence:
+&#x202b;
+הידעת? מערך יכול להיות גם מערך של אובייקטים? יצרנו לך מערך כזה פה. רוצי על המערך, ועבור כל אובייקט שיש בו, הדפיסי את המשפט הבא:
 
 ```js
 "Hi, my name is {firstName} {lastName}. I am {age} years old, and work as a {occupation}."
 ```
 
-Ignore the brackets. They're just there to let you know a word should be replaced with something else. The sentence you log should look like this:
+&#x202b;
+התעלמי מהסוגריים המסולסלים, הם שם רק כדי שתדעי איזו מילה יש להחליף במשהו אחר. המשפט הסופי נראה כך:
 
 ```js
 "Hi, my name is Virginia Woolf. I am 59 years old, and work as a writer."
 ```
 
-Here is the array:
+&#x202b;
+להלך המערך:
 
 ```js
 var writers = [
@@ -47,6 +50,7 @@ var writers = [
 ];
 ```
 
-If you want an extra challenge, only `console.log()` the writers that are alive.
+&#x202b;
+אם תרצי אתגר נוסף: הדפיסי רק את הסופרים שנמצאים בחיים.
 
-### [Go to Challenge 3 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge03.md)
+### &#x202b; [לאתגר 3 >>>>](https://github.com/node-girls/beginners-javascript-hebrew/blob/master/challenge03.md)

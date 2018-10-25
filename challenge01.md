@@ -1,8 +1,13 @@
-# Challenge 1: Age Difference
+# &#x202b; אתגר ראשון: הבדלי גילאים
 
-Write a function `ageDifference` that returns the difference in age between the oldest and youngest member of a family.
+&#x202b;
+כתבי פונקציה `ageDifference` אשר מחזירה את ההבדל בגילאים בין הילד הקטן ביותר במשפחה לבין הילד הגדול ביותר במשפחה.
 
-It should take two parameters: `youngest`, and `oldest`. These will always be objects. Use the following two as your test cases:
+&#x202b;
+הפונקציה תקבל שני פרמטרים: `youngest` ו- `oldest`. פרמטרים אלו יהיו אובייקטים.
+
+&#x202b;
+לדוגמה:
 
 ```js
 var youngest = {
@@ -16,10 +21,11 @@ var oldest = {
 };
 ```
 
-Successfully calling the function will look like this:
+&#x202b;
+הקריאה מוצלחת לפונקציה תראה כך:
 
 ```js
 ageDifference(youngest, oldest); // ---> returns 70
 ```
 
-### [Go to Challenge 2 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge02.md)
+### &#x202b;  [לאתגר 2 >>>>](https://github.com/node-girls/beginners-javascript-hebrew/blob/master/challenge02.md)
